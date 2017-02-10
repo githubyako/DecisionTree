@@ -20,6 +20,7 @@ Exemple d'utilisation:
 _______________________________
 Entrez le path du fichier .arff d'apprentissage:
 >> /home/etudiant/data/ML_data/arff/mushroom_train.arff
+
 Voulez-vous utiliser la moitié de ce jeu d'exemple pour validation? (o/n)
 >> n
 Entrez le path du fichier .arff de validation:
