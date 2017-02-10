@@ -1,7 +1,7 @@
+Auteurs : Mariam Bouzid, Nicolas Roux
+
 Implémentation python d'un arbre de décision, avec élagage par réduction d'erreur.
 Ne fonctionne que sur des valeurs discrètes. Jeux d'exemples inclus.
-
-Auteurs : Mariam Bouzid, Nicolas Roux
 
 Ce projet nécessite Python3 et a été testé avec la version 3.5.2
 
