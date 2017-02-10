@@ -1,5 +1,7 @@
 Auteurs : Mariam Bouzid, Nicolas Roux
 
+Usage : python3.5 projetIA.py
+
 Implémentation python d'un arbre de décision, avec élagage par réduction d'erreur.
 Ne fonctionne que sur des valeurs discrètes. Jeux d'exemples inclus.
 
